@@ -1,0 +1,8 @@
+Errors in project
+-----------------
+Entity errors in Engine class library
+Dll reference errors
+
+Content Management system - Provides a user interface to change the content in website. WYSIWYG. 
+
+BlockChain
